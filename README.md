@@ -1,4 +1,4 @@
-# CineFlex_API
+# API_Movie
 
 # 1. Introdução
 
